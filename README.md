@@ -1,4 +1,4 @@
-# Trello Clone
+# Ticket Management System
 
 ![](https://i.imgur.com/5kG5Vvg.png)
 
